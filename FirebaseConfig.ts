@@ -6,12 +6,7 @@ import { getStorage } from 'firebase/storage';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCU1yVgK5PMP5UqLhrNeeqBUqbnj4LOGi8",
-  authDomain: "financialtracker-ab313.firebaseapp.com",
-  projectId: "financialtracker-ab313",
-  storageBucket: "financialtracker-ab313.firebasestorage.app",
-  messagingSenderId: "276300898099",
-  appId: "1:276300898099:web:70b4aa56bcea0764dfe846"
+//your apiKey,authDomain,ProjectId and all;
 };
 
 const app = initializeApp(firebaseConfig);
