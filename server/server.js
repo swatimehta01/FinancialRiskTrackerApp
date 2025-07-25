@@ -11,8 +11,8 @@ app.use(cors());
 app.use(express.json());
 
 // 🔐 API Keys
- const FINNHUB_API_KEY = 'd1hh661r01qsvr2a5hlgd1hh661r01qsvr2a5hm0';
- const GEMINI_API_KEY = 'AIzaSyBv9bqZ8dp0W6B9iBPp4w-hxwudcG5QHwM';
+ const FINNHUB_API_KEY = 'Your api key';
+ const GEMINI_API_KEY = 'your api key';
 
 
 // 🔌 Gemini setup
